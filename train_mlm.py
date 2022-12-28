@@ -106,4 +106,3 @@ for length, batch in length_batch_list:
     if model == None:
         print("\n\n\nTraining is over.")
         break
-
