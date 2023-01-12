@@ -1,1 +1,2 @@
-requirement
+transformers == 4.8.2
+datasets == 2.6.1
